@@ -105,8 +105,8 @@
     "interactjs": "^1.3.4",
     "moment": "*",
     "prop-types": "^15.6.2",
-    "react": ">=18.8",
-    "react-dom": ">=18.8"
+    "react": ">=18.2.0",
+    "react-dom": ">=18.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.23.9",
