@@ -1,5 +1,5 @@
-import createReactContext from 'create-react-context'
 
+import  { createContext } from 'react'
 /* eslint-disable no-console */
 const defaultContextState = {
   subscribeToMouseOver: () => {
@@ -8,7 +8,7 @@ const defaultContextState = {
 }
 /* eslint-enable */
 
-const { Consumer, Provider } = createReactContext(defaultContextState)
+const { Consumer, Provider } = createContext(defaultContextState)
 
 export const MarkerCanvasProvider = Provider
 export const MarkerCanvasConsumer = Consumer
