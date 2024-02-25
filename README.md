@@ -1,5 +1,7 @@
-# ⚠️⚠️⚠️⚠️ HELP WANTED
-please email me [ahmad.ilaiwi@gmail.com](mailto:ahmad.ilaiwi@gmail.com) and we will setup some time to speak and see if you can help maintain this library.
+# ⚠️⚠️⚠️⚠️ DO NOT USE
+
+Do not use this Project. COnversion in progress.
+
 
 # React Calendar Timeline
 
