@@ -1,6 +1,6 @@
 import 'regenerator-runtime/runtime'
 const Enzyme = require('enzyme')
-const Adapter = require('enzyme-adapter-react-16')
+import Adapter from '@cfaester/enzyme-adapter-react-18';
 
 Enzyme.configure({ adapter: new Adapter() })
 
